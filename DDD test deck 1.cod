@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <lastLoadedTimestamp></lastLoadedTimestamp>
+    <deckname>DDD test deck 1</deckname>
+    <bannerCard providerId=""></bannerCard>
+    <comments></comments>
+    <tags/>
+    <zone name="main">
+        <card number="3" name="Chronomancer" setShortName="DDA"/>
+        <card number="3" name="Gambler" setShortName="DDA"/>
+        <card number="3" name="Guardian" setShortName="DDA"/>
+        <card number="3" name="Hunter" setShortName="DDA"/>
+        <card number="3" name="Mighty Body" setShortName="DDA"/>
+        <card number="3" name="Mighty Mind" setShortName="DDA"/>
+        <card number="3" name="Slayer" setShortName="DDA"/>
+        <card number="3" name="Slayer Trainee" setShortName="DDA"/>
+        <card number="3" name="Slayer Trainer" setShortName="DDA"/>
+    </zone>
+</cockatrice_deck>
