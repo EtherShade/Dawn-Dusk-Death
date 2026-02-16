@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_carddatabase version="4">
+  <sets>
+    <set>
+      <name>DDA</name>
+      <longname>Dawn, Dusk, Death alphatest</longname>
+      <settype></settype>
+    </set>
+  </sets>
+  <cards>
+
+    <card>
+      <name>Gambler</name>
+      <set rarity="common">DDA</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type></type>
+        <maintype></maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>This permanent enters your field with an additional power counter for each time you’ve manifested this turn.
+—
+Manifest twice.</text>
+    </card>
+    <card>
+      <name>Mighty Mind</name>
+      <set rarity="common">DDA</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type></type>
+        <maintype></maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>—
+Put 3 power counters on one of your permanents.</text>
+    </card>
+    <card>
+      <name>Mighty Body</name>
+      <set rarity="common">DDA</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type></type>
+        <maintype></maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>—
+Put 1 power counter on one of your permanents.</text>
+    </card>
+    <card>
+      <name>Slayer</name>
+      <set rarity="common">DDA</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type></type>
+        <maintype></maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Brutal (A permanent with brutal deals 1 more damage while attacking. This stacks.)
+—
+Put 1 power counter on one of your permanents.</text>
+    </card>
+    <card>
+      <name>Slayer Trainer</name>
+      <set rarity="common">DDA</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type></type>
+        <maintype></maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Brutal (A permanent with brutal deals 1 more damage while attacking. This stacks.)
+—
+Put 1 brutal counter on one of your permanents. (A permanent with brutal deals 1 more damage while attacking. This stacks.)</text>
+    </card>
+    <card>
+      <name>Chronomancer</name>
+      <set rarity="common">DDA</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type></type>
+        <maintype></maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>—
+Take an extra turn after this one.</text>
+    </card>
+    <card>
+      <name>Hunter</name>
+      <set rarity="common">DDA</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type></type>
+        <maintype></maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>This has brutal while attacking creatures with less power counters than this. (A permanent with brutal deals 1 more damage while attacking. This stacks.)
+—
+Put 1 power counter on one of your permanents.</text>
+    </card>
+    <card>
+      <name>Guardian</name>
+      <set rarity="common">DDA</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type></type>
+        <maintype></maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Retaliatory (A permanent with retaliatory deals 1 more damage while defending. This stacks.)
+—
+Put 1 power counter on one of your permanents.</text>
+    </card>
+    <card>
+      <name>Slayer Trainee</name>
+      <set rarity="common">DDA</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type></type>
+        <maintype></maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>When this enters, put a brutal counter on it if you have a permanent with brutal in your field. Otherwise, put a power counter on this. (A permanent with brutal deals 1 more damage while attacking. This stacks.)
+—
+Put 1 power counter on one of your permanents.</text>
+    </card>
+
+    <!-->Tokens</-->
+
+
+  </cards>
+</cockatrice_carddatabase>
